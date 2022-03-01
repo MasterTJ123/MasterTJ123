@@ -13,5 +13,3 @@
   - Email: thiago_rocha_moraes@hotmail.com
   
   - LinkedIn: https://www.linkedin.com/in/thiago-rocha-de-moraes-139a5121a/
-  
-  - 
