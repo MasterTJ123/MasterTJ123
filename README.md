@@ -1,15 +1,14 @@
-# MasterTJ123
+# Hi, I'm MasterTJ123!
 
-- Hi, I'm @MasterTJ123
++ Computer Science student at Universidade Federal de São João del-Rei (UFSJ)
++ Working with Web Development at Extracities (Back-end with Django)
 
-- I'm interested in Computer Science and Tecnology
+---
 
-- I'm currently learning programming languages as C, Dart, Python and JavaScript
+![MasterTJ123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterTJ123&show_icons=true&theme=dracula)  
 
-- I'm looking to collaborate on C and Dart projects
-  
-  ## Contact
-  
-  - Email: thiago_rocha_moraes@hotmail.com
-  
-  - LinkedIn: https://www.linkedin.com/in/thiago-rocha-de-moraes-139a5121a/
+![MasterTJ123's top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterTJ123&theme=dracula)  
+
+## Contact
+
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago_rocha_moraes@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rocha-de-moraes/)
