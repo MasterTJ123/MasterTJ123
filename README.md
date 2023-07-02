@@ -12,3 +12,7 @@
 ## Contact
 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago_rocha_moraes@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-rocha-de-moraes/)
+   
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/MasterTJ123/count.svg)
