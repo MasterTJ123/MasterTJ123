@@ -16,3 +16,5 @@
 ## Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/MasterTJ123/count.svg)
+
+![Snake animation](https://github.com/MasterTJ123/MasterTJ123/blob/output/github-contribution-grid-snake.svg)
