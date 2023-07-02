@@ -24,3 +24,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/MasterTJ123/count.svg)
 
 ![Snake animation](https://github.com/MasterTJ123/MasterTJ123/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8444F7&height=120&section=footer"/>
