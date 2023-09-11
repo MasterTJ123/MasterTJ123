@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8444F7&height=120&section=header"/>
+
 # Hi, I'm MasterTJ123!
 
 + Computer Science student at Universidade Federal de São João del-Rei (UFSJ)
