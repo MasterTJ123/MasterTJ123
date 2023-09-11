@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8444F7&height=120&section=header"/>
 
-# Hi, I'm MasterTJ123!
+# Hi, I'm MasterTJ123! 🎮
 
-+ Computer Science student at Universidade Federal de São João del-Rei (UFSJ).
-+ Working with Web Development at Extracities (Back-end with Django).
-+ Interested in data analysis, game development, web development, and much more.
-+ Feel free to reach out to me!
++ Computer Science student at Universidade Federal de São João del-Rei (UFSJ). 🎓
++ Working with Web Development at Extracities (Back-end with Django). 🌐
++ Interested in data analysis, game development, web development, and much more. 💻
++ Feel free to reach out to me! 🤝
 
 <p align="center">
   <a href="https://git.io/typing-svg">
