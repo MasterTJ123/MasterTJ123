@@ -1,9 +1,9 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8444F7&height=120&section=header"/>
 
 # Hi, I'm MasterTJ123! 🎮
 
 + Computer Science student at Universidade Federal de São João del-Rei (UFSJ). 🎓
-+ Working with Web Development at Extracities (Back-end with Django). 🌐
 + Interested in data analysis, game development, web development, and much more. 💻
 + Feel free to reach out to me! 🤝
 
@@ -29,13 +29,26 @@
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-282a26?style=for-the-badge&logo=pandas&logoColor=%23150458" alt="Pandas"></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-282a26?style=for-the-badge&logo=numpy&logoColor=%23013243" alt="NumPy"></a>
   <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-282a26?style=for-the-badge&logo=sqlalchemy&logoColor=%23D71F00" alt="SQLAlchemy"></a>
+  <a href="https://www.psycopg.org/"><img src="https://img.shields.io/badge/Psycopg-282a26?style=for-the-badge" alt="Psycopg"></a>
   <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-282a26?style=for-the-badge" alt="Java"></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-282a26?style=for-the-badge&logo=springboot&logoColor=%236DB33F" alt="Spring Boot"></a>
+  <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-282a26?style=for-the-badge&logo=junit5&logoColor=%2325A162" alt="JUnit"></a>
+  <a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/Mockito-282a26?style=for-the-badge" alt="Mockito"></a>
+  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://img.shields.io/badge/JavaScript-282a26?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-282a26?style=for-the-badge&logo=typescript&logoColor=%233178C6" alt="TypeScript"></a>
+  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-282a26?style=for-the-badge&logo=angular&logoColor=%230F0F11" alt="Angular"></a>
+  <a href="https://jasmine.github.io/"><img src="https://img.shields.io/badge/Jasmine-282a26?style=for-the-badge&logo=jasmine&logoColor=%238A4182" alt="Jasmine"></a>
   <a href="https://www.c-language.org/"><img src="https://img.shields.io/badge/C-282a26?style=for-the-badge&logo=c&logoColor=%23A8B9CC" alt="C"></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-282a26?style=for-the-badge&logo=r&logoColor=%23276DC3" alt="R"></a>
   <a href="https://www.iso.org/standard/21413.html"><img src="https://img.shields.io/badge/Prolog-282a26?style=for-the-badge" alt="Prolog"></a>
   <a href="https://opensource.ieee.org/vasg"><img src="https://img.shields.io/badge/VHDL-282a26?style=for-the-badge" alt="VHDL"></a>
-  <a href="https://www.iso.org/standard/76583.html"><img src="https://img.shields.io/badge/SQL-282a26?style=for-the-badge" alt="SQL"></a>
+  <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-282a26?style=for-the-badge&logo=sqlite&logoColor=%23003B57" alt="SQLite"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-282a26?style=for-the-badge&logo=mysql&logoColor=%234479A1" alt="MySQL"></a>
+  <a href="https://www.mysql.com/products/workbench/"><img src="https://img.shields.io/badge/MySQL_Workbench-282a26?style=for-the-badge" alt="MySQL Workbench"></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-282a26?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="PostgreSQL"></a>
+  <a href="https://dbeaver.io/"><img src="https://img.shields.io/badge/DBeaver-282a26?style=for-the-badge&logo=dbeaver&logoColor=%23382923" alt="DBeaver"></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282a26?style=for-the-badge" alt="Microsoft SQL Server"></a>
+  <a href="https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms"><img src="https://img.shields.io/badge/SQL_Server_Management_Studio-282a26?style=for-the-badge" alt="SQL Server Management Studio"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-282a26?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5"></a>
   <a href="https://www.w3.org/TR/css/#css"><img src="https://img.shields.io/badge/CSS-282a26?style=for-the-badge&logo=css&logoColor=%23663399" alt="CSS"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-282a26?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git"></a>
@@ -47,6 +60,7 @@
   <a href="unity.com"><img src="https://img.shields.io/badge/Unity-282a26?style=for-the-badge&logo=unity&logoColor=%23FFFFFF" alt="Unity"></a>
   <a href="office.com"><img src="https://img.shields.io/badge/Microsoft_Office-282a26?style=for-the-badge" alt="Microsoft Office"></a>
   <a href="https://www.libreoffice.org/"><img src="https://img.shields.io/badge/LibreOffice-282a26?style=for-the-badge&logo=libreoffice&logoColor=%2318A303" alt="LibreOffice"></a>
+  <a href="https://azure.microsoft.com/en-us/products/devops/"><img src="https://img.shields.io/badge/Azure_DevOps-282a26?style=for-the-badge" alt="Azure DevOps"></a>
 </div>
 
 ## Contact
