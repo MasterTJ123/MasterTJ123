@@ -3,8 +3,9 @@
 
 # Hi, I'm MasterTJ123! 🎮
 
++ Full stack (Frontend | Backend) developer. 🚀
 + Computer Science student at Universidade Federal de São João del-Rei (UFSJ). 🎓
-+ Interested in data analysis, game development, web development, and much more. 💻
++ Interested in data analysis, game development, web development and much more. 💻
 + Feel free to reach out to me! 🤝
 
 <p align="center">
@@ -51,6 +52,7 @@
   <a href="https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms"><img src="https://img.shields.io/badge/SQL_Server_Management_Studio-282a26?style=for-the-badge" alt="SQL Server Management Studio"></a>
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-282a26?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5"></a>
   <a href="https://www.w3.org/TR/css/#css"><img src="https://img.shields.io/badge/CSS-282a26?style=for-the-badge&logo=css&logoColor=%23663399" alt="CSS"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-282a26?style=for-the-badge&logo=docker&logoColor=%232496ED" alt="Docker"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-282a26?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-282a26?style=for-the-badge&logo=github&logoColor=%23181717" alt="GitHub"></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-282a26?style=for-the-badge" alt="MATLAB"></a>
