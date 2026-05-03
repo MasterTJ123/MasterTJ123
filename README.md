@@ -17,8 +17,9 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterTJ123&show_icons=true&bg_color=282a26&border_color=e4e2e2&icon_color=ffffff&text_color=ffffff&title_color=ffffff" alt="MasterTJ123's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterTJ123&bg_color=282a26&border_color=e4e2e2&text_color=ffffff&title_color=ffffff" alt="MasterTJ123's top programming languages">
+  <img src="./profile/stats.svg" alt="Stats">
+  <br>
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
 ## Technologies
